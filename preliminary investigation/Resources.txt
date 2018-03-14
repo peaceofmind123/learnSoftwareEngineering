@@ -1,0 +1,14 @@
+A) technical:
+viable programming environments:
+1) c++ with llvm
+2) haskell or ocaml
+
+haskell and ocaml are functional programming languages that have inbuilt pattern matching functionality and a strong type system which makes them the best option for building compilers.
+
+book on compiler design:
+"Basics of compiler design"
+http://www.diku.dk/~torbenm/Basics/basics_lulu2.pdf
+
+B) Time
+//to be estimated after having read the book and understood the components involved
+//todo: create a gnatt chart (for project schedule representation)
